@@ -1,0 +1,11 @@
+Evaluation Results for Dirichlet_stop_porter_3000
+==================================================
+
+map            : 0.0873
+Rprec          : 0.0994
+P_10           : 0.0700
+P_20           : 0.0780
+P_100          : 0.0582
+recall_1000    : 0.3998
+bpref          : 0.2517
+recip_rank     : 0.1975

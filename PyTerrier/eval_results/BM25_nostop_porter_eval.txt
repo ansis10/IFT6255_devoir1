@@ -1,0 +1,11 @@
+Evaluation Results for BM25_nostop_porter
+==================================================
+
+map            : 0.0513
+Rprec          : 0.0592
+P_10           : 0.0740
+P_20           : 0.0670
+P_100          : 0.0414
+recall_1000    : 0.3075
+bpref          : 0.2038
+recip_rank     : 0.1921
